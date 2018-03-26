@@ -1,0 +1,50 @@
+.container-fluid {
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -17px;
+    padding-top: 57px;
+    padding-bottom: 2px;
+}
+.main-row{
+	margin-bottom:40px;
+}
+.head{
+	text-align:center;
+	color:#FFFFFF;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	}
+.sign-btn{
+	text-align:center;
+}
+.btn-default {
+	width:120px;
+    color: #333;
+    background-color: #ccc;
+}
+.btn-default:hover{
+	border:none;
+	}
+. btn-default-1{
+	background-color:hsla(0,0%,73%,1.00);
+	padding-left:15px;
+	padding-right:15px;
+}
+.from{
+ color:black;
+ font-size:22px;
+ font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
+}
+.form-control:hover{
+	border-bottom:2px solid #FF7E00;
+	transition:all .3s;
+}
+.form-control{
+	background-color:hsla(0,0%,96%,0.80);
+	color:#000000;
+	font-size:18px;
+	transition:all .3s;
+}
+.link{
+	transition:all 2 ;
+}
